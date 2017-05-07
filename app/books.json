@@ -1,0 +1,44 @@
+[
+  {
+  	"title": "Fight Club",
+  	"author": "Chuck Palahniuk",
+  	"language": "English",
+  	"published": "1996",
+  	"ISBN": "0-393-03976-5"
+  },
+  {
+  	"title": "Fahrenheit 451",
+  	"author": "Ray Bradbury",
+  	"language": "English",
+  	"published": "1953",
+  	"ISBN": "978-0-7432-4722-1"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "language": "English",
+    "published": "1997",
+    "ISBN": "0-7475-3269-9"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "language": "Spanish",
+    "published": "1997",
+    "ISBN": "0-7475-3269-9"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "language": "English",
+    "published": "1965",
+    "ISBN": "978-3-641-17308-1"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "language": "German",
+    "published": "1965",
+    "ISBN": "978-3-641-17308-1"
+  }
+]
