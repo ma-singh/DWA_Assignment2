@@ -1,0 +1,24 @@
+{
+  "name": "dwa-assignment2",
+  "version": "1.0.0",
+  "description": "Routes with Static Data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-singh/DWA_Assignment2.git"
+  },
+  "author": "Nash Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma-singh/DWA_Assignment2/issues"
+  },
+  "homepage": "https://github.com/ma-singh/DWA_Assignment2#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
